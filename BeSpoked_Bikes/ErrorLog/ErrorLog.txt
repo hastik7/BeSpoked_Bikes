@@ -1,0 +1,18 @@
+Time: 21/11/2021 02:35:40
+Message: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+Time: 21/11/2021 10:50:05
+Message: Cannot perform '>=' operation on System.DateTime and System.Int32.
+
+Time: 21/11/2021 04:07:26
+Message: Length cannot be less than zero.
+Parameter name: value
+
+Time: 21/11/2021 04:07:44
+Message: Length cannot be less than zero.
+Parameter name: value
+
+Time: 21/11/2021 04:07:53
+Message: Length cannot be less than zero.
+Parameter name: value
+
